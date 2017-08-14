@@ -1,2 +1,3 @@
 # java_practice
-java practice
+java practice sample
+
